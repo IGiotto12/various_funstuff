@@ -1,1 +1,2 @@
-# clicker
+# bulks of codes
+- including Python, HTML, CSS, JavaScript...
